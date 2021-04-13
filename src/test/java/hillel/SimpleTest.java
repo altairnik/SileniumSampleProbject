@@ -1,4 +1,3 @@
 package hillel;
 
-public class SimpleTest {
-}
+public class SimpleTest {}
